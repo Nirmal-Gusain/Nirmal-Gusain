@@ -16,3 +16,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nirmal-Gusain&show_icons=true&locale=en" alt="Nirmal-Gusain" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirmal-Gusain&show_icons=true&locale=en&layout=compact" alt="Nirmal-Gusain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal-Gusain&" alt="Nirmal-Gusain" /></p>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
